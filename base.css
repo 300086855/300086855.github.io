@@ -62,6 +62,10 @@ section p {
     line-height: 1.3em;
 }
 
+#welcome {
+    text-align: center;
+}
+
 #aboutme ul {
     list-style: none;
     text-align: center;
