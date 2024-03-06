@@ -22,3 +22,6 @@ const message = getMessage()
 
 document.querySelector('#welcome h1').textContent = message
 document.querySelector('#welcome p').textContent = `The time is ${hours} hours`
+
+const secretMessage = "I love to code most times... maybe..."
+localStorage["It's a secret to everybody."] = secretMessage
